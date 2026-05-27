@@ -1,0 +1,4 @@
+Employee,Travel Type,Origin Airport,Destination Airport,Hotel Nights,Taxi Distance,Travel Date
+Asha,flight,BLR,DEL,0,0,2026-05-02
+Ravi,hotel,,,3,0,2026-05-04
+Neha,ground,,,0,25,2026-05-07
